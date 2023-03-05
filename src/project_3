@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- шапка нашого сайту -->
+    <header>
+        <a href="#"><img src="./img/logo.png" alt="logo"></a>
+       <!--  навігація -->
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Servises</a></li>
+            </ul>
+        </nav>
+    </header>
+    <!-- головний контент -->
+    <main>
+         <section>
+            <h1>Подкаст терапія</h1>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus eum officia deleniti. Numquam blanditiis rerum qui minus, tempore molestias rem voluptas cum sequi, itaque, recusandae consectetur sed non! Modi ea perferendis veniam doloribus, animi dolorum nihil laudantium eveniet exercitationem vel?</p>
+         </section>
+    </main>
+    <!-- підвал сайту -->
+    <footer>
+        <ul>
+            <li><a href="">Facebook</a></li>
+            <li><a href="">Instagram</a></li>
+            <li><a href="">TikTok</a></li>
+            <li><a href="">Twiter</a></li>
+        </ul>
+    </footer>
+</html>
